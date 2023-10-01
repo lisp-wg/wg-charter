@@ -1,7 +1,7 @@
 # LISP Working Group Charter Proposal
 
 
-## Proposed Charter: Intro
+## Proposed Charter: Introduction
 
 LISP supports a routing architecture which decouples the routing locators and identifiers, thus
 allowing for efficient aggregation of the routing locator space and providing persistent
