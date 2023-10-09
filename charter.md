@@ -24,6 +24,7 @@ components.
 - Multicast Support: LISP support for multicast environments has a growing number of use
 cases. Support for multicast is needed in order to achieve scalability. The current documents
 [Ref to experimental multicast RFCs] should be merged and published as Standard Track.
+- Map Server Reliable Transport: LISP control plane messages are transported over UDP, however, in some cases, the use of a reliable transport protocol is a better fit, since it actually helps reduce periodic signaling. 
 
 
 ## Proposed Charter: Work Items Part 2
