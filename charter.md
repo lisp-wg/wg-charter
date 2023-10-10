@@ -25,7 +25,8 @@ components.
 cases. Support for multicast is needed in order to achieve scalability. The current documents
 [Ref to experimental multicast RFCs] should be merged and published as Standard Track.
 - Map Server Reliable Transport: LISP control plane messages are transported over UDP, however, in some cases, the use of a reliable transport protocol is a better fit, since it actually helps reduce periodic signaling. 
-
+- LISP for traffic engineering: some use cases find useful to encode in a mapping not only the routing locators associated to EIDs, but also an ordered set of re-encapsulating tunnel routers used to specify a path.
+- LISP external connectivity: [RFC6832] defines the Proxy ETR element, to be used to connect LISP sites with non-LISP sites. However, [RFC6832] does not define any mechanism to discover such external connectivity, which is a feature very handy in some deployment scenarios. 
 
 ## Proposed Charter: Work Items Part 2
 
