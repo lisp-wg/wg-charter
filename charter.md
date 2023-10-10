@@ -3,14 +3,7 @@
 
 ## Proposed Charter: Introduction
 
-LISP supports a routing architecture which decouples the routing locators and identifiers, thus
-allowing for efficient aggregation of the routing locator space and providing persistent
-identifiers in the identifier space. LISP requires no changes to end-systems or to routers that
-do not directly participate in the LISP deployment. LISP aims for an incrementally deployable
-protocol, so new features and services can be added easily and quickly to the network using
-overlays. The scope of the LISP technology is potentially applicable to have a large span.The
-LISP WG is chartered to continue work on the LISP protocol and produce standard-track
-documents.
+LISP supports an overlay routing architecture which decouples the routing locators and identifiers, thus allowing for efficient aggregation of the routing locator space and providing persistent identifiers in the identifier space. LISP requires no changes to end-systems or to routers that do not directly participate in the LISP deployment. LISP aims for an incrementally deployable protocol, so new features and services can be added easily and quickly to the network using overlays. The scope of the LISP technology is potentially applicable to have a large span. The LISP WG is chartered to continue work on the LISP protocol, including extensions for which the working group has consensus on deeming them necessary, and produce standard-track documents.
 
 
 ## Proposed Charter: Work Items Part 1
