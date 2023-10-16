@@ -41,13 +41,16 @@ recent and relevant use-cases so as to update RFC 7215.
 
 ## Proposed Charter: Tentative Milestones
 
-1. November 2023: Submit a LISP YANG document to the IESG for consideration
-2. March 2024: Submit a LISP NAT Traversal document to the IESG for consideration
-3. June 2024: Submit 8111bis to the IESG for consideration
+1. November 2023: Submit a LISP Yang model document to the IESG for consideration
+2. March 2024: Submit LISP Traffic Engineering document to the IESG for consideration
+3. March 2024: Submit LISP Reliable Transport document to the IESG for consideration
 4. June 2024 : Submit LISP geo-coordinates for consideration
-5. November 2024: Submit merged Multicast document to the IESG for consideration
-6. March 2025: Submit 6832bis pXTRs to the IESG for consideration
-7. June 2025: Submit merged LCAFbis to the IESG for considerations
-8. November 2025: Submit LISP Mobile Node to the IESG for considerations
-9. March 2026: Submit LISP Applicability document to the IESG for considerations
-10. November 2026: Wrap-Up or recharter
+5. June 2024: Submit a LISP NAT Traversal document to the IESG for consideration
+6. November 2024: Submit 8111bis to the IESG for consideration
+7. November 2024: Submit merged LCAFbis document to the IESG for consideration
+8. March 2025: Submit LISP Privacy and Security documents to the IESG for consideration
+9. March 2025: Submit 6832bis Proxy XTRs document to the IESG for consideration
+10. June 2025: Submit LISP Mobile Node to the IESG for consideration
+11. November 2025: Submit Multicast documents to the IESG for consideration
+12. March 2026: Submit LISP Applicability document to the IESG for consideration
+13. November 2026: Wrap-Up or recharter 
