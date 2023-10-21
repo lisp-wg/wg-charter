@@ -19,7 +19,7 @@ Main work items are identified as follows:
 
 - NAT-Traversal: Support for NAT-traversal solution in deployments where LISP tunnel routers are separated from correspondent tunnel routers by a NAT (e.g., LISP mobile node).
 
-- Mobility: Some LISP deployment scenarios include mobile nodes (in mobile environments) or Virtual Machines (VMs in data centers), hence, support needs to be provided in order to achieve seamless connectivity.
+- Mobility: Some LISP deployment scenarios include endpoints that move across different LISP xTRs and/or LISP xTRs that are themselves mobile, hence, support needs to be provided in order to achieve seamless connectivity.
 
 - Privacy and Security: The WG will work on topics of EID anonymity, VPN segmentation leveraging on the Instance ID, and traffic anonymization. The reuse of existing mechanisms will be prioritized.
 
