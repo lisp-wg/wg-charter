@@ -7,15 +7,15 @@ LISP supports an overlay routing architecture which decouples the routing locato
 
 Main work items are identified as follows:
 
-- Standard Track Documents: The core specifications of LISP have been published as “Standard Track” ([RFC9300], [RFC9301]). The WG will continue the work of moving select specifications to “Standard Track” (e.g., LISP Canonical Address Format [RFC8060], LISP Multicast [RFC6831][RFC8378], etc).
+- Moving to Standard Track: The core specifications of LISP have been published as “Standard Track” ([RFC9300], [RFC9301]). The WG will continue the work of moving select specifications to “Standard Track” (e.g., LISP Canonical Address Format [RFC8060], LISP Multicast [RFC6831][RFC8378], etc).
 
-- Yang models for managing the LISP protocol and deployments that include data models, OAM, as well as allowing for programmable management interfaces.
+- Yang Models: The management of LISP protocol and deployments include data models, OAM, as well as allowing for programmable management interfaces.
 
 - Map Server Reliable Transport: LISP control plane messages are transported over UDP, however, in some cases, the use of a reliable transport protocol is a better fit, since it actually helps reduce periodic signaling. 
 
-- LISP for traffic engineering: Specifics on how to do traffic engineering on LISP deployments could be useful. For instance, encode in a mapping not only the routing locators associated to EIDs, but also an ordered set of re-encapsulating tunnel routers (RTRs) used to specify a path.
+- LISP for Traffic Engineering: Specifics on how to do traffic engineering on LISP deployments could be useful. For instance, encode in a mapping not only the routing locators associated to EIDs, but also an ordered set of re-encapsulating tunnel routers (RTRs) used to specify a path.
 
-- LISP external connectivity: [RFC6832] defines the Proxy ETR element, to be used to connect LISP sites with non-LISP sites. However, LISP deployments could benefit from more advanced internetworking, for instance by defining mechanism to discover such external connectivity.
+- LISP External Connectivity: [RFC6832] defines the Proxy ETR element, to be used to connect LISP sites with non-LISP sites. However, LISP deployments could benefit from more advanced internetworking, for instance by defining mechanism to discover such external connectivity.
 
 - NAT-Traversal: Support for NAT-traversal solution in deployments where LISP tunnel routers are separated from correspondent tunnel routers by a NAT (e.g., LISP mobile node).
 
