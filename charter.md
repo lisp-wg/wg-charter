@@ -3,13 +3,13 @@
 
 ## Proposed Charter: Introduction
 
-LISP supports an overlay routing architecture which decouples the routing locators and endpoint identifiers, thus allowing for efficient aggregation of the routing locator space and providing persistent identifiers in the endpoint space. LISP requires no changes to endpoints or to routers that do not directly participate in the LISP deployment. LISP aims for an incrementally deployable protocol, so new features and services can be added easily and quickly to the network using overlays. The scope of the LISP technology is potentially applicable to have a large span. The LISP WG is chartered to continue work on the LISP protocol, including extensions for which the working group has consensus on deeming them necessary, and produce standard-track documents.
+LISP supports an overlay routing architecture that decouples the routing locators and endpoint identifiers, thus allowing for efficient aggregation of the routing locator space and providing persistent identifiers in the endpoint space. LISP requires no changes to endpoints or routers that do not directly participate in the LISP deployment. LISP aims for an incrementally deployable protocol, so new features and services can be added easily and quickly to the network using overlays. The scope of the LISP technology is potentially applicable to have a large span. The LISP WG is chartered to continue work on the LISP protocol, including extensions for which the working group has consensus on deeming them necessary, and produce standard-track documents.
 
-Main work items are identified as follows:
+The working group will work on the following items:
 
 - Moving to Standard Track: The core specifications of LISP have been published as “Standard Track” ([RFC9300], [RFC9301]). The WG will continue the work of moving select specifications to “Standard Track” (e.g., LISP Canonical Address Format [RFC8060], LISP Multicast [RFC6831][RFC8378], etc).
 
-- Yang Models: The management of LISP protocol and deployments include data models, OAM, as well as allowing for programmable management interfaces.
+- Yang Models: The management of LISP protocol and its deployments. The data plane, control plane, and mapping system components are all in scope.
 
 - Map Server Reliable Transport: LISP control plane messages are transported over UDP, however, in some cases, the use of a reliable transport protocol is a better fit, since it actually helps reduce periodic signaling. 
 
@@ -17,13 +17,13 @@ Main work items are identified as follows:
 
 - LISP External Connectivity: [RFC6832] defines the Proxy ETR element, to be used to connect LISP sites with non-LISP sites. However, LISP deployments could benefit from more advanced internetworking, for instance by defining mechanism to discover such external connectivity.
 
-- NAT-Traversal: Support for NAT-traversal solution in deployments where LISP tunnel routers are separated from correspondent tunnel routers by a NAT (e.g., LISP mobile node).
+- NAT-Traversal: Support for a NAT-traversal solution in deployments where LISP tunnel endpoints are separated from by a NAT (e.g., LISP mobile node).
 
-- Mobility: Some LISP deployment scenarios include endpoints that move across different LISP xTRs and/or LISP xTRs that are themselves mobile, hence, support needs to be provided in order to achieve seamless connectivity.
+- Mobility: Some LISP deployment scenarios include endpoints that move across different LISP xTRs and/or LISP xTRs that are themselves mobile. Support needs to be provided to achieve seamless connectivity.
 
-- Privacy and Security: The WG will work on topics of EID anonymity, VPN segmentation leveraging on the Instance ID, and traffic anonymization. The reuse of existing mechanisms will be prioritized.
+- Privacy and Security: The WG will work on EID anonymity, VPN segmentation leveraging on the Instance ID, and traffic anonymization. The reuse of existing mechanisms will be prioritized.
 
-- LISP Applicability: In time, LISP has proved to be a very flexible protocol that can be used in various use-cases not even considered during its design phase. [RFC7215], while remaining a good source of information, covers one single use case, which is not anymore the main LISP application scenario. The LISP WG will document LISP deployments for most recent and relevant use-cases, so as to update and complement [RFC7215] as needed.
+- LISP Applicability: LISP has proved to be a very flexible protocol that can be used in various use-cases not considered during its design phase. [RFC7215], while remaining a good source of information, covers one single use case, which is no longer the main LISP application scenario. The LISP WG will document LISP deployments for the most recent and relevant use-cases, as an update to [RFC7215].
 
 
 ## Proposed Charter: Tentative Milestones
