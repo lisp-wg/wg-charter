@@ -9,7 +9,7 @@ The working group will work on the following items:
 
 - Moving to Standard Track: The core specifications of LISP have been published as “Standard Track” ([RFC9300], [RFC9301]). The WG will continue the work of moving select specifications to “Standard Track” (e.g., LISP Canonical Address Format [RFC8060], LISP Multicast [RFC6831][RFC8378], etc).
 
-- Yang Models: The management of LISP protocol and its deployments. The data plane, control plane, and mapping system components are all in scope.
+- Yang Models: The management of LISP protocol and deployments include data models, OAM, as well as allowing for programmable management interfaces.
 
 - Map Server Reliable Transport: LISP control plane messages are transported over UDP, however, in some cases, the use of a reliable transport protocol is a better fit, since it actually helps reduce periodic signaling. 
 
@@ -23,7 +23,7 @@ The working group will work on the following items:
 
 - Privacy and Security: The WG will work on EID anonymity, VPN segmentation leveraging on the Instance ID, and traffic anonymization. The reuse of existing mechanisms will be prioritized.
 
-- LISP Applicability: LISP has proved to be a very flexible protocol that can be used in various use-cases not considered during its design phase. [RFC7215], while remaining a good source of information, covers one single use case, which is no longer the main LISP application scenario. The LISP WG will document LISP deployments for the most recent and relevant use-cases, as an update to [RFC7215].
+- LISP Applicability: LISP has proved to be a very flexible protocol that can be used in various use-cases not considered during its design phase. [RFC7215], while remaining a good source of information, covers one single use case, which is no longer the main LISP application scenario. The LISP WG will document LISP deployments for most recent and relevant use-cases, so as to update and complement [RFC7215] as needed.
 
 
 ## Proposed Charter: Tentative Milestones
