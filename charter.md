@@ -32,13 +32,13 @@ Main work items are identified as follows:
 2. March 2024: Submit LISP Traffic Engineering document to the IESG for consideration
 3. March 2024: Submit LISP Reliable Transport document to the IESG for consideration
 4. March 2024: Submit LISP Yang model document to the IESG for consideration
-5. June 2024 : Submit LISP Geo-Coordinates document to the IESG for consideration
-6. June 2024: Submit LISP NAT Traversal document to the IESG for consideration
+5. July 2024 : Submit LISP Geo-Coordinates document to the IESG for consideration
+6. July 2024: Submit LISP NAT Traversal document to the IESG for consideration
 7. November 2024: Submit LISP DDT bis document to the IESG for consideration
 8. November 2024: Submit LISP LCAF bis document to the IESG for consideration
 9. March 2025: Submit LISP Privacy and Security document(s) to the IESG for consideration
 10. March 2025: Submit LISP External Connectivity document(s) to the IESG for consideration
-11. June 2025: Submit LISP Mobility document(s) to the IESG for consideration
+11. July 2025: Submit LISP Mobility document(s) to the IESG for consideration
 12. November 2025: Submit LISP Multicast document(s) to the IESG for consideration
 13. March 2026: Submit LISP Applicability document(s) to the IESG for consideration
 14. November 2026: Wrap-Up or recharter 
