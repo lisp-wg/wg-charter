@@ -1,8 +1,5 @@
 # LISP Working Group Charter Proposal
 
-
-## Proposed Charter: Introduction
-
 LISP supports an overlay routing architecture that decouples the routing locators and endpoint identifiers, thus allowing for efficient aggregation of the routing locator space and providing persistent identifiers in the endpoint space. LISP requires no changes to endpoints or routers that do not directly participate in the LISP deployment. LISP aims for an incrementally deployable protocol, so new features and services can be added easily and quickly to the network using overlays. The scope of the LISP technology is potentially applicable to have a large span. The LISP WG is chartered to continue work on the LISP protocol, including extensions for which the working group has consensus on deeming them necessary, and produce standard-track documents.
 
 The working group will work on the following items:
@@ -32,13 +29,13 @@ The working group will work on the following items:
 2. March 2024: Submit LISP Reliable Transport document to the IESG for consideration
 3. March 2024: Submit LISP Yang model document to the IESG for consideration
 4. March 2024: Submit LISP Traffic Engineering document to the IESG for consideration
-5. June 2024 : Submit LISP Geo-Coordinates document to the IESG for consideration
+5. March 2024: Submit LISP Geo-Coordinates document to the IESG for consideration
 7. November 2024: Submit LISP NAT Traversal document to the IESG for consideration
 8. November 2024: Submit LISP DDT bis document to the IESG for consideration
 9. November 2024: Submit LISP LCAF bis document to the IESG for consideration
 10. March 2025: Submit LISP Privacy and Security document(s) to the IESG for consideration
 11. March 2025: Submit LISP External Connectivity document(s) to the IESG for consideration
-12. June 2025: Submit LISP Mobility document(s) to the IESG for consideration
+12. July     2025: Submit LISP Mobility document(s) to the IESG for consideration
 13. November 2025: Submit LISP Multicast document(s) to the IESG for consideration
 14. March 2026: Submit LISP Applicability document(s) to the IESG for consideration
 15. November 2026: Wrap-Up or recharter 
