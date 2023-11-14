@@ -25,17 +25,17 @@ The working group will work on the following items:
 
 ## Proposed Charter: Tentative Milestones
 
-1. November 2023: Submit LISP Name Encoding document to the IESG for consideration
-2. March 2024: Submit LISP Reliable Transport document to the IESG for consideration
-3. March 2024: Submit LISP Yang model document to the IESG for consideration
-4. March 2024: Submit LISP Traffic Engineering document to the IESG for consideration
-5. March 2024: Submit LISP Geo-Coordinates document to the IESG for consideration
-7. November 2024: Submit LISP NAT Traversal document to the IESG for consideration
-8. November 2024: Submit LISP DDT bis document to the IESG for consideration
-9. November 2024: Submit LISP LCAF bis document to the IESG for consideration
-10. March 2025: Submit LISP Privacy and Security document(s) to the IESG for consideration
-11. March 2025: Submit LISP External Connectivity document(s) to the IESG for consideration
-12. July     2025: Submit LISP Mobility document(s) to the IESG for consideration
-13. November 2025: Submit LISP Multicast document(s) to the IESG for consideration
-14. March 2026: Submit LISP Applicability document(s) to the IESG for consideration
-15. November 2026: Wrap-Up or recharter 
+1. November 2023: Submit LISP Name Encoding document to the IESG for consideration (Extension)
+2. March 2024: Submit LISP Reliable Transport document to the IESG for consideration (Map Server Reliable Transport)
+3. March 2024: Submit LISP Yang model document to the IESG for consideration (Yang Models)
+4. March 2024: Submit LISP Traffic Engineering document to the IESG for consideration (Extension)
+5. March 2024: Submit LISP Geo-Coordinates document to the IESG for consideration (Mobility)
+6. November 2024: Submit LISP NAT Traversal document to the IESG for consideration (NAT Traversal)
+7. November 2024: Submit LISP DDT bis document to the IESG for consideration (Moving to Standard Track)
+8. November 2024: Submit LISP LCAF bis document to the IESG for consideration (Moving to Standard Track)
+9. March 2025: Submit LISP Privacy and Security document(s) to the IESG for consideration (Privacy and Security)
+10. March 2025: Submit LISP External Connectivity document(s) to the IESG for consideration (LISP External Connectivity)
+11. July 2025: Submit LISP Mobility document(s) to the IESG for consideration (Mobility)
+12. November 2025: Submit LISP Multicast document(s) to the IESG for consideration (Moving to Standard Track)
+13. March 2026: Submit LISP Applicability document(s) to the IESG for consideration (LISP Applicability)
+14. November 2026: Wrap-Up or recharter 
